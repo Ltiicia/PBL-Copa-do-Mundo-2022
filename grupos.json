@@ -1,0 +1,50 @@
+{
+    "A": {
+        "eqp1_A": "NED",
+        "eqp2_A": "TUT",
+        "eqp3_A": "WSW",
+        "eqp4_A": "QAT"
+    },
+    "B": {
+        "eqp1_B": "ENG",
+        "eqp2_B": "USA",
+        "eqp3_B": "INR",
+        "eqp4_B": "WAL"
+    },
+    "C": {
+        "eqp1_C": "ARG",
+        "eqp2_C": "POL",
+        "eqp3_C": "MEX",
+        "eqp4_C": "KSA"
+    },
+    "D": {
+        "eqp1_D": "FRA",
+        "eqp2_D": "AUS",
+        "eqp3_D": "TUN",
+        "eqp4_D": "DEN"
+    },
+    "E": {
+        "eqp1_E": "JPN",
+        "eqp2_E": "ESP",
+        "eqp3_E": "GER",
+        "eqp4_E": "CRC"
+    },
+    "F": {
+        "eqp1_F": "MAR",
+        "eqp2_F": "CRO",
+        "eqp3_F": "BEL",
+        "eqp4_F": "CAN"
+    },
+    "G": {
+        "eqp1_G": "BRA",
+        "eqp2_G": "SUI",
+        "eqp3_G": "CMR",
+        "eqp4_G": "SRB"
+    },
+    "H": {
+        "eqp1_H": "POR",
+        "eqp2_H": "KOR",
+        "eqp3_H": "URU",
+        "eqp4_H": "GHA"
+    }
+}
